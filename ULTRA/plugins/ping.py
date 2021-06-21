@@ -95,7 +95,7 @@ async def _(event):
     end = datetime.now()
     ms = (end - start).microseconds / 1000
     await eor(event,
-        f"**█▀█ █▀█ █▄░█ █▀▀ █ \n█▀▀ █▄█ █░▀█ █▄█ ▄**\n\n✥ **✪ Tɪᴍᴇ Tᴀᴋᴇɴ:** `{ms}` ms \n✥ **✪ Mᴀsᴛᴇʀ:** `{ALIVE_NAME}` \n✥ **✪ Assɪsᴛᴀɴᴛ:** __@{TG_BOT_USER_NAME}__"
+        f"**Pemulung Userbot Is Started**\n\n✥ **✪ Ping:** `{ms}` ms \n✥ **✪ Owner:** `{ALIVE_NAME}`"
     )
 
     
