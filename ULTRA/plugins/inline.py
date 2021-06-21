@@ -1,4 +1,4 @@
-# COPYRIGHT (C) BY 2021 BY ULTRA X
+# COPYRIGHT (C) BY 2021 BY pemulung-userbot
 # make by @LEGENDX22
 # inline alive
 # modify by PROBOYX

@@ -1,6 +1,6 @@
 # made for ULTRA-X
 
-# ULTRA X
+# pemulung-userbot
 
 from ..utils import admin_cmd
 @bot.on(admin_cmd(pattern='broadcast'))

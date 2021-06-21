@@ -31,7 +31,7 @@ async def file(event):
   PROBOYX.close()
   LEGENDX = event.builder
   LEGENDX22 = [[Button.url(f'{ok}', f'{bc}')]]
-  PROBOYXOP = LEGENDX.article(title='Button by ULTRA X', text=f'{ok}', buttons=LEGENDX22)
+  PROBOYXOP = LEGENDX.article(title='Button by pemulung-userbot', text=f'{ok}', buttons=LEGENDX22)
   await event.answer([PROBOYXOP])
 
 CMD_HELP.update

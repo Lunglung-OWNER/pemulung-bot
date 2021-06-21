@@ -22,7 +22,7 @@ import time
 MESSAGE = os.environ.get("ALIVE_MSG", None)
 if MESSAGE is None:
    MSG = '''
-🔥🔥 THE ULTRA X IS ONLINE 🔥🔥
+🔥🔥 THE pemulung-userbot IS ONLINE 🔥🔥
 I AM HERE FOR MY MASTER PROTECTION
 I AM NON HACKEBLE + BEST USERBOT
 THANKS MASTER TO DEPLOY ME
@@ -34,7 +34,7 @@ ALIVE_NAME = os.environ.get("ALIVE_NAME")
 BOT = str(botnickname) if botnickname else "υℓтяα χ"
 NAME = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-ULTRAX = "[ULTRA X](https://t.me/ULTRAXOT)"
+ULTRAX = "[pemulung-userbot](https://t.me/ULTRAXOT)"
 VERSION = "0.0.1"
 ALIVE_USERNAME = os.environ.get("ALIVE_USERNAME", None)
 ALIVE_BOT_USERNAME = os.environ.get("ALIVE_BOT_USERNAME", None)

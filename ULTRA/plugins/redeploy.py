@@ -1,4 +1,4 @@
-# COPYRIGHT (C) BY 2021 BY ULTRA X
+# COPYRIGHT (C) BY 2021 BY pemulung-userbot
 # made by madboy482
 # kang mat kr lawde
 

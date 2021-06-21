@@ -19,7 +19,7 @@ async def testing(event):
         await event.edit("**𝒀𝒐𝒖 𝑫𝒐𝒏❜𝒕 𝒉𝒂𝒗𝒆 𝑺𝒖𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑹𝒊𝒈𝒉𝒕𝒔**")
         return
     await event.edit("**Dᴏɪɴɢ Nᴏᴛʜɪɴɢ 🙃🙂**")# Kang with Credits
-# for ULTRA X
+# for pemulung-userbot
     everyone = await event.client.get_participants(event.chat_id)
     for user in everyone:
         if user.id == chutiya.id:

@@ -1,4 +1,4 @@
-# Made by @LEGENDX22 FOR ULTRA X
+# Made by @LEGENDX22 FOR pemulung-userbot
 import asyncio
 import io
 

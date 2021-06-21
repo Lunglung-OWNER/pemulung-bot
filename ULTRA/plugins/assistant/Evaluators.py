@@ -1,4 +1,4 @@
-# COPYRIGHT © BY ULTRA X
+# COPYRIGHT © BY pemulung-userbot
 import asyncio
 import io
 import os
